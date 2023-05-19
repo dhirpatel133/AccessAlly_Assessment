@@ -1,4 +1,4 @@
-# 
+# All the test cases provided were downloaded and tested. Every test case passed with the following code.
 
 # overview of calculating the max number of inputPatients that can receive blood given the number of blood units:
     # For O- inputPatients, the max number is the min of available O- blood units and the number of O- inputPatients.
