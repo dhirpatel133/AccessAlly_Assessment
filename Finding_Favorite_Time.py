@@ -1,7 +1,7 @@
 # All the test cases provided were downloaded and tested. Every test case passed with the following code.
 
-# change the input here to test the program
-input = 9514
+# run the program and give the input
+input = int(input())
 
 # hashmap to store all the possible number of arithmetic sequence for each of the 12 hours.
 # format -> {1: # of sequences, 2: # of sequences, ... , 12: # of sequences}

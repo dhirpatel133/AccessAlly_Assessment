@@ -135,6 +135,7 @@ def maxABPlus(inputUnits, inputPatients):
             inputUnits[0] -= val7
             inputPatients[7] -= val7
 
+# run the program and give the two lines of input of 8 numbers for each line
 def maxNumberOfinputPatients():
     # get first and second line of input of 8 integers each
     inputUnits = list(map(int, input().split()))
