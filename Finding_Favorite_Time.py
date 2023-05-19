@@ -1,7 +1,7 @@
 # All the test cases provided were downloaded and tested. Every test case passed with the following code.
 
 # run the program and give the input
-input = int(input())
+input = int(input("Enter minutes: "))
 
 # hashmap to store all the possible number of arithmetic sequence for each of the 12 hours.
 # format -> {1: # of sequences, 2: # of sequences, ... , 12: # of sequences}
